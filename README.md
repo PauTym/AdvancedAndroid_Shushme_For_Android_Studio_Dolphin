@@ -1,4 +1,4 @@
-# ShushMe
+# ShushMe (Updated to work with Android Studio Dolphin)
 
 This is the toy app for the Places lesson of the [Advanced Android App Development course on Udacity](https://www.udacity.com/course/advanced-android-app-development--ud855).
 
