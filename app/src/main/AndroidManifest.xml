@@ -11,7 +11,8 @@
 
         <!-- TODO (1) Add meta-data tag with API key -->
 
-        <activity android:name="com.example.android.shushme.MainActivity">
+        <activity android:name="com.example.android.shushme.MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
